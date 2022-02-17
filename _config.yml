@@ -179,6 +179,6 @@ highlighter: rouge
 disqus: True
 disqus_shortname: jwoo5264
 
-destination: ../[GitHubPage]/
+destination: ../gitHubPage/
 
 branch: master
