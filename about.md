@@ -20,6 +20,8 @@ ACS / MCS 개발 및 유지보수 담당 (천진, 헝가리)<br>
 <span style='background-color: #f6f8fa'>&nbsp;Hibenate&nbsp;</span><br>
 <span style='background-color: #E6B91E'>&nbsp;Oracle&nbsp;</span><br>
 
+---
+
 # 📚 Tech Stack 📚
 
 <span style='color: white; background-color: #DF3A01'>&nbsp;Java&nbsp;</span><br>
@@ -31,5 +33,24 @@ ACS / MCS 개발 및 유지보수 담당 (천진, 헝가리)<br>
 <span style='color: white; background-color: #4FC08D'>&nbsp;Vue&nbsp;</span><br>
 <span style='color: white; background-color: #6DB33F'>&nbsp;Spring&nbsp;</span><br>
 <span style='color: white; background-color: #E6B91E'>&nbsp;Oracle&nbsp;</span><br>
+
+---
+
+## 디스코드 봇만들기
+
+### 개발기간
+
+2022.01.03 ~ 2022.01.19
+
+### 사용기술
+
+python 3.9<br>
+dicord.py<br>
+selenium<br><br>
+[깃링크](https://github.com/iceameri/DiscordMusicBot) <br>
+
+<a href = "https://iceameri.github.io//toy_project/2022/01/28/discordMusicBot_python.html" target = "링크 방법" > 상세설명 </a>
+
+---
 
 <a href = "https://github.com/iceameri/YatThemeBlog/tree/master/assets/etc" target = "링크 방법" > 이전의 개인프로젝트 포트폴리오 </a>
